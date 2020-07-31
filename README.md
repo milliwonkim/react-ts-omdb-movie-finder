@@ -1,5 +1,3 @@
-# 티켓플레이스 과제
-
 # 질문1. How to build a movie search app using React Hooks 프로젝트가 있습니다. 이 프로젝트는 React+ES6로 만들어져 있습니다.
 
 ## 1. 이 프로젝트를 Typescript를 이용해서 새롭게 만들어보세요
